@@ -1,0 +1,7 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+FOSGP.5T8.F600,"Percentage of graduates from tertiary education graduating from Information and Communication Technologies programmes, both sexes (%)",EDUCATION,2025-02-23,February 2025 Data Release,1813,1998,2024,NATIONAL,"EduLvl:Tertiary, EduField:InfComm",2115
+FOSGP.5T8.F700,"Percentage of graduates from tertiary education graduating from Engineering, Manufacturing and Construction  programmes, both sexes (%)",EDUCATION,2025-02-23,February 2025 Data Release,1810,1998,2024,NATIONAL,"EduLvl:Tertiary, EduField:EngManCon",2115
+MENF.5T8,"Net flow of internationally mobile students (inbound - outbound), both sexes (UIS estimate) (number)",EDUCATION,2025-02-23,February 2025 Data Release,2425,1998,2022,NATIONAL,,3238
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),DEMOGRAPHIC_SOCIOECONOMIC,2025-02-23,February 2025 Data Release,9937,1970,2023,NATIONAL,,
+SP.POP.GROW,Population growth (annual %),DEMOGRAPHIC_SOCIOECONOMIC,2025-02-23,February 2025 Data Release,11641,1970,2023,NATIONAL,,
+XGDP.FFNTR,"Expenditure on education (public, private, international) as a percentage of GDP ",EDUCATION,2025-02-23,February 2025 Data Release,333,2005,2023,NATIONAL,"FundingSource:Private, FundingSource:Public, FundingSource:International",2150

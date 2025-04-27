@@ -1,0 +1,10 @@
+code,name,description,glossaryTerms
+EduField,Fields of education,,2021
+EduField:EngManCon,"Engineering, Manufacturing and Construction",,
+EduField:InfComm,Information and Communication Technologies,,2367
+EduLvl,Education Level,,
+EduLvl:Tertiary,ISCED 5 to 8 - Tertiary education,,2824
+FundingSource,Funding source,,"3185, 3250"
+FundingSource:International,International funding,,
+FundingSource:Private,Private funding,,
+FundingSource:Public,Public funding,,
